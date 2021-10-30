@@ -24,7 +24,7 @@ void display()
     glColor3f(0,0,1);
     glRectf(1,8,30,15);
 
-    glEnd();
+    //glEnd();
     glFlush();
     glutSwapBuffers();
 }
